@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "756547881492",
+    "project_id": "messangerapp-a3dfe",
+    "storage_bucket": "messangerapp-a3dfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756547881492:android:9421e9b7e4808a7820f501",
+        "android_client_info": {
+          "package_name": "com.chatt.android.chatforfun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756547881492-j5un5v0ek8am10cs4df120bbahsvldn0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLlDL1Kpp6cQ47gQMSpqI2Z0QRrhyQM-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756547881492-j5un5v0ek8am10cs4df120bbahsvldn0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
